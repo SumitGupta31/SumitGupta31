@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SumitGupta31
 - 👀 Computer Science Stream
-- 🌱 I have skills in Python, MuleSoft and Salesforce
+- 🌱 I have skills in MuleSoft and worked with end system like Salesforce and Oracle
 - ✨ I’m currently working as Software Engineer
 - 📫 Mail: guptsumit.31@gmail.com 
 - 📫 Linkedin: https://www.linkedin.com/in/sumit-gupta-a95a0019b
